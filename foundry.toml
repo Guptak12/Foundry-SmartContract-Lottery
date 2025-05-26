@@ -13,4 +13,6 @@ fs_permissions = [
 
 [fuzz]
 runs=256
+
+ignore_contract_size_limit = ["test/**", "mocks/**"]
 # See more config options https://github.com/foundry-rs/foundry/blob/master/crates/config/README.md#all-options
