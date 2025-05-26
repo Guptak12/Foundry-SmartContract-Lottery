@@ -1,7 +1,7 @@
 # Foundry Smart Contract Lottery
 
 ![Foundry](https://img.shields.io/badge/Built%20with-Foundry-FFDB1C.svg?style=flat-square)
-![Solidity](https://img.shields.io/badge/Solidity-%3E%3D0.8.4-363636.svg?style=flat-square&logo=solidity)
+![Solidity](https://img.shields.io/badge/Solidity-%3E%3D0.8.19-363636.svg?style=flat-square&logo=solidity)
 
 A decentralized lottery system built with Foundry, implementing a secure and transparent on-chain lottery mechanism.
 
