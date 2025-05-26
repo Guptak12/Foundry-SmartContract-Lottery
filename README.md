@@ -1,6 +1,3 @@
-Here's a professional `README.md` for your Foundry Smart Contract Lottery repository:
-
-```markdown
 # Foundry Smart Contract Lottery
 
 ![Foundry](https://img.shields.io/badge/Built%20with-Foundry-FFDB1C.svg?style=flat-square)
@@ -89,13 +86,3 @@ Contributions are welcome! Please open an issue or submit a pull request.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-You can customize this further by:
-1. Adding specific deployment instructions for different networks
-2. Including any special features of your lottery system
-3. Adding frontend integration details if applicable
-4. Including gas optimization details
-5. Adding audit reports if available
-
-Would you like me to add any specific sections or modify any part of this README?
